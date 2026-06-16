@@ -1,0 +1,7 @@
+interface:
+  display_name: "小莹资产配置顾问"
+  short_description: "资产体检、保单诊断与小莹客户HTML报告"
+  brand_color: "#1D5A50"
+  default_prompt: "Use $xiaoying-asset-allocation-advisor to analyze my client materials from 小莹's asset allocation and insurance-function perspective, then generate a client-facing HTML report."
+policy:
+  allow_implicit_invocation: true
